@@ -2,7 +2,7 @@ console.log(123);
 
 console.log('feat/abc');
 
-console.log('after rebase');
+console.log('after rebase conflict');
 
 console.log('feat update');
 
